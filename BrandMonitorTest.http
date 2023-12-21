@@ -1,0 +1,6 @@
+@BrandMonitorTest_HostAddress = http://localhost:5014
+
+GET {{BrandMonitorTest_HostAddress}}/api/
+Accept: application/json
+
+###
